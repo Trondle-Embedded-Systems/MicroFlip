@@ -84,11 +84,21 @@ TBD
 
 Feel free to open issues or PRs with suggestions!
 
+## Purchasing a MicroFlip
+### Buy From Me (CH - Ships Worldwide)
+[MicroFlip - TES](https://) <br>
+We also have [Full GBP kits]() available.
+
+### United States
+- [Pulsar3D](https://pulsar-3d.com/)
+
 
 ## Contributing
 
 1. Fork the repo, create a feature branch.
 2. Submit a PR with a clear description of what the change does and why...
+
+
 
 ## Support
 
