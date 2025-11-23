@@ -87,10 +87,11 @@ Feel free to open issues or PRs with suggestions!
 ## Purchasing a MicroFlip
 ### Buy From Me (CH - Ships EU)
 [TES - Tröndle Embeeded Systems](https://www.tes-shop.ch/products/microflip?variant=52126922146135) <br>
-We also have [Full GBP kits]() available.
+We also have [Full GBP kits](https://www.tes-shop.ch/products/microflip?variant=52126922146135) available.
 
 ### United States
 - [Pulsar3D](https://pulsar-3d.com/)
+- Pulsar3D also has [Full GBP kits](https://pulsar-3d.com) available.
 
 
 ## Contributing
