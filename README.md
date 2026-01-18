@@ -8,11 +8,10 @@
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Hardware Files](#hardware-files)
-4. [Schematic & PCB](#schematic--pcb)
-5. [Roadmap](#roadmap)
-6. [Contributing](#contributing)
-7. [License](#license)
+3. [Schematic & PCB](#schematic--pcb)
+4. [Roadmap](#roadmap)
+5. [Contributing](#contributing)
+6. [License](#license)
    
 ---
 
