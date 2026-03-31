@@ -87,7 +87,7 @@ Feel free to open issues or PRs with suggestions!
 
 ## Purchasing a MicroFlip
 ### Buy From Me (CH - Ships EU)
-- [TES - Tröndle Embeeded Systems](https://tes-shop.ch) <br>
+- [TES - Tröndle Embeeded Systems](https://tes-shop.ch/microflip) <br>
 
 ### United States
 - [Pulsar3D](https://pulsar-3d.com/)
