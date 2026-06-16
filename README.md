@@ -79,12 +79,6 @@ Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HA
 
 ---
 
-## Roadmap
-
-TBD
-
-Feel free to open issues or PRs with suggestions!
-
 ## Purchasing a MicroFlip
 ### Buy From Me (CH - Ships EU)
 - [TES - Tröndle Embeeded Systems](https://tes-shop.ch/microflip) <br>
@@ -92,6 +86,8 @@ Feel free to open issues or PRs with suggestions!
 ### United States
 - [Pulsar3D](https://pulsar-3d.com/)
 - Pulsar3D also has [Full GBP kits](https://pulsar-3d.com) available.
+
+Do you have a problem or issue with your MicroFlip ? join the [discord](http://discord.gg/K5EF3VzV7E) !
 
 
 ## Contributing
@@ -104,8 +100,6 @@ Feel free to open issues or PRs with suggestions!
 ## Support
 
 [If you enjoy my work, consider supporting me by buying me a coffee!](https://buymeacoffee.com/Ntrondle)
-
-Do you have a problem or issue with your MicroFlip ? join the [discord](http://discord.gg/K5EF3VzV7E) !
 
 ---
 
