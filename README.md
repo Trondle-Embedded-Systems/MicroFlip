@@ -105,6 +105,8 @@ Feel free to open issues or PRs with suggestions!
 
 [If you enjoy my work, consider supporting me by buying me a coffee!](https://buymeacoffee.com/Ntrondle)
 
+Do you have a problem or issue with your MicroFlip ? join the [discord](http://discord.gg/K5EF3VzV7E) !
+
 ---
 
 ## License
