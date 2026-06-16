@@ -87,7 +87,7 @@ Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HA
 - [Pulsar3D](https://pulsar-3d.com/)
 - Pulsar3D also has [Full GBP kits](https://pulsar-3d.com) available.
 
-Do you have a problem or issue with your MicroFlip ? join the [discord](http://discord.gg/K5EF3VzV7E) !
+Do you have a problem or issue with your MicroFlip ? join the [discord](https://discord.gg/XVt4zDmAsj) !
 
 
 ## Contributing
