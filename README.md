@@ -80,8 +80,6 @@ Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HA
 ---
 
 ## Purchasing a MicroFlip
-### Buy From Me (CH - Ships EU)
-- [TES - Tröndle Embeeded Systems](https://tes-shop.ch/microflip) <br>
 
 ### United States
 - [Pulsar3D](https://pulsar-3d.com/)
