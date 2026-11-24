@@ -2,7 +2,7 @@
 
 *Ultra‑compact polarity‑reverser board for N20‑size brushed DC gear‑motors*
 
-Check out the manual [here](https://manual.tes-shop.ch/en/manual/microflip/)
+Check out the manual [here](https://wiki.tes-shop.ch/en/manual/microflip/)
 
 ---
 
